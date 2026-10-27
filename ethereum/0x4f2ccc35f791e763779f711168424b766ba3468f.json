@@ -1,0 +1,1 @@
+{"name": "LeviathanWhirlpool", "chainId": 1, "address": "0x4f2CCc35F791e763779f711168424b766Ba3468F", "metadata": {"output": {"abi": [{"inputs": [], "name": "release", "outputs": [], "stateMutability": "nonpayable", "type": "function"}]}}, "version": 1, "checkPoints": [], "isProxy": false, "principalAddress": null}

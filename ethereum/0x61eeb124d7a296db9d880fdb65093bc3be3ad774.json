@@ -1,0 +1,1 @@
+{"name": "Pierre_Marie_Riviere", "chainId": 1, "address": "0x61Eeb124D7a296db9D880fDb65093BC3BE3ad774", "metadata": {"output": {"abi": [{"inputs": [], "name": "inscription", "outputs": [{"internalType": "string", "name": "", "type": "string"}], "stateMutability": "view", "type": "function"}]}}, "version": 1, "checkPoints": [], "isProxy": false, "principalAddress": null}

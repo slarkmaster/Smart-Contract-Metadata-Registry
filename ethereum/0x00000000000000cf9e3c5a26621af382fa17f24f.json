@@ -1,0 +1,1 @@
+{"name": "MultiCall", "chainId": 1, "address": "0x00000000000000CF9E3c5A26621af382fA17f24f", "metadata": {"output": {"abi": [{"inputs": [], "stateMutability": "nonpayable", "type": "constructor"}, {"stateMutability": "payable", "type": "fallback"}]}}, "version": 1, "checkPoints": [], "isProxy": false, "principalAddress": null}

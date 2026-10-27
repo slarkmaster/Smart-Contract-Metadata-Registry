@@ -1,0 +1,1 @@
+{"name": "AntoineAndZhou", "chainId": 1, "address": "0x4a4F4bA1C9188ACB9B325356963d742Ed784D855", "metadata": {"output": {"abi": [{"inputs": [], "name": "inscription", "outputs": [{"internalType": "string", "name": "", "type": "string"}], "stateMutability": "view", "type": "function"}]}}, "version": 1, "checkPoints": [], "isProxy": false, "principalAddress": null}

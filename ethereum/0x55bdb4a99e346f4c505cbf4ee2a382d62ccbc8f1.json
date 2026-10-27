@@ -1,0 +1,1 @@
+{"name": "A", "chainId": 1, "address": "0x55bdB4a99e346F4C505CBF4ee2a382d62CCbC8f1", "metadata": {"output": {"abi": [{"inputs": [], "name": "tip", "outputs": [], "stateMutability": "payable", "type": "function"}]}}, "version": 1, "checkPoints": [], "isProxy": false, "principalAddress": null}

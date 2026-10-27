@@ -1,0 +1,1 @@
+{"name": "datetime", "chainId": 1, "address": "0xBdEfED6efcf5e63D6f52BA0f64660B12371B93de", "metadata": {"output": {"abi": [{"inputs": [], "name": "get_now", "outputs": [{"internalType": "uint256", "name": "", "type": "uint256"}], "stateMutability": "view", "type": "function"}]}}, "version": 1, "checkPoints": [], "isProxy": false, "principalAddress": null}

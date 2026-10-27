@@ -1,0 +1,1 @@
+{"name": "SealedTip", "chainId": 1, "address": "0x2f2Ac83C7B49B5554EfB67a1ad9018b171d0167e", "metadata": {"output": {"abi": [{"inputs": [], "name": "tip", "outputs": [], "stateMutability": "payable", "type": "function"}]}}, "version": 1, "checkPoints": [], "isProxy": false, "principalAddress": null}

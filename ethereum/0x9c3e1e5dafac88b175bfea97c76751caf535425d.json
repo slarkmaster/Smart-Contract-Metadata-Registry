@@ -1,0 +1,1 @@
+{"name": "Sync", "chainId": 1, "address": "0x9C3e1e5DAFAc88b175BfEa97c76751caF535425D", "metadata": {"output": {"abi": [{"anonymous": false, "inputs": [], "name": "OracleUpdated", "type": "event"}, {"inputs": [], "name": "syncAll", "outputs": [], "stateMutability": "nonpayable", "type": "function"}]}}, "version": 1, "checkPoints": [], "isProxy": false, "principalAddress": null}

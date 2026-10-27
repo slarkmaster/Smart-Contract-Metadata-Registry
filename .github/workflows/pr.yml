@@ -1,0 +1,26 @@
+name: check pr
+
+on:
+  pull_request
+
+jobs:
+  check_pr:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+      - name: Set up Python 3.8
+        uses: actions/setup-python@v3
+        with:
+          python-version: '3.8'
+      - name: Set git config
+        run: |
+          git config diff.renameLimit 99999
+      - name: Get changed files
+        id: changed-files
+        uses: tj-actions/changed-files@v34.5.1
+      - name: List all changed files
+        run: |
+          for file in ${{ steps.changed-files.outputs.all_changed_files }}; do
+            python check_file.py $file
+          done

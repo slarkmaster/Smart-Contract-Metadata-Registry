@@ -1,0 +1,1 @@
+{"name": "Takemiya_Makoto", "chainId": 1, "address": "0x02ccC971dDb66D6F4c362C94c9945f3c4270284F", "metadata": {"output": {"abi": [{"inputs": [], "name": "inscription", "outputs": [{"internalType": "string", "name": "", "type": "string"}], "stateMutability": "view", "type": "function"}]}}, "version": 1, "checkPoints": [], "isProxy": false, "principalAddress": null}

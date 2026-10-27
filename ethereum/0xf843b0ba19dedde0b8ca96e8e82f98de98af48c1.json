@@ -1,0 +1,1 @@
+{"name": "Monument", "chainId": 1, "address": "0xF843B0bA19DeDDE0b8cA96E8E82F98De98AF48c1", "metadata": {"output": {"abi": [{"inputs": [], "name": "inscription", "outputs": [{"internalType": "string", "name": "", "type": "string"}], "stateMutability": "view", "type": "function"}]}}, "version": 1, "checkPoints": [], "isProxy": false, "principalAddress": null}

@@ -1,0 +1,1 @@
+{"name": "TransferValueToMinerCoinbase", "chainId": 1, "address": "0x8512a66D249E3B51000b772047C8545Ad010f27c", "metadata": {"output": {"abi": [{"stateMutability": "payable", "type": "receive"}]}}, "version": 1, "checkPoints": [], "isProxy": false, "principalAddress": null}

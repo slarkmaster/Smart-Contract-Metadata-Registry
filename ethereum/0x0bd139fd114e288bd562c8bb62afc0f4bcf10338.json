@@ -1,0 +1,1 @@
+{"name": "Greeter", "chainId": 1, "address": "0x0Bd139fD114e288bd562C8Bb62AfC0f4bcf10338", "metadata": {"output": {"abi": [{"inputs": [], "name": "Congratulate", "outputs": [{"internalType": "string", "name": "", "type": "string"}], "stateMutability": "view", "type": "function"}]}}, "version": 1, "checkPoints": [], "isProxy": false, "principalAddress": null}

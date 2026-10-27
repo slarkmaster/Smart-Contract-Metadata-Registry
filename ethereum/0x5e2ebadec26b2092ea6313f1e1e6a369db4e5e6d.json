@@ -1,0 +1,1 @@
+{"name": "FirstTestContract", "chainId": 1, "address": "0x5e2eBAdec26b2092ea6313f1E1e6A369DB4e5E6d", "metadata": {"output": {"abi": [{"inputs": [], "name": "myMessageToTheWorld", "outputs": [{"internalType": "string", "name": "", "type": "string"}], "stateMutability": "pure", "type": "function"}]}}, "version": 1, "checkPoints": [], "isProxy": false, "principalAddress": null}

@@ -1,0 +1,1 @@
+{"name": "TokenFactory", "chainId": 1, "address": "0xea739063C50Bfd57af3A6388d503D3979c5FA6DE", "metadata": {"output": {"abi": [{"stateMutability": "nonpayable", "type": "fallback"}]}}, "version": 1, "checkPoints": [], "isProxy": false, "principalAddress": null}

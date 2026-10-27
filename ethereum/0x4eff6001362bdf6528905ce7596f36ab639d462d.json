@@ -1,0 +1,1 @@
+{"name": "ElectChainDAORegistration", "chainId": 1, "address": "0x4eff6001362bdf6528905ce7596F36AB639D462d", "metadata": {"output": {"abi": [{"inputs": [], "name": "registerInterest", "outputs": [], "stateMutability": "nonpayable", "type": "function"}]}}, "version": 1, "checkPoints": [], "isProxy": false, "principalAddress": null}

@@ -1,0 +1,1 @@
+{"name": "MegaPoker", "chainId": 1, "address": "0x1b3359D8e087c02D56b22765Ca0C53C9f3f64F5e", "metadata": {"output": {"abi": [{"inputs": [], "name": "poke", "outputs": [], "stateMutability": "nonpayable", "type": "function"}]}}, "version": 1, "checkPoints": [], "isProxy": false, "principalAddress": null}

@@ -1,0 +1,1 @@
+{"name": "TheRabbitsHole", "chainId": 1, "address": "0x18159f21D6A2F72Dc97FC1d2ddEbCEcfa614142C", "metadata": {"output": {"abi": [{"inputs": [], "name": "whereTokens", "outputs": [{"internalType": "string", "name": "", "type": "string"}], "stateMutability": "pure", "type": "function"}]}}, "version": 1, "checkPoints": [], "isProxy": false, "principalAddress": null}

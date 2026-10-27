@@ -1,0 +1,1 @@
+{"name": "Notarizzazione", "chainId": 1, "address": "0x2562aCcAC438dc59979BA347890775Ee86Dcb55F", "metadata": {"output": {"abi": [{"inputs": [{"internalType": "string", "name": "_dato", "type": "string"}], "name": "notarizzaDato", "outputs": [], "stateMutability": "nonpayable", "type": "function"}]}}, "version": 1, "checkPoints": [], "isProxy": false, "principalAddress": null}

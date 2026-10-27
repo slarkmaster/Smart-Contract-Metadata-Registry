@@ -1,0 +1,1 @@
+{"name": "Lex_Fridman", "chainId": 1, "address": "0x9EbaD6f7949A505942Db18b90263e776be6E5E2A", "metadata": {"output": {"abi": [{"inputs": [], "name": "inscription", "outputs": [{"internalType": "string", "name": "", "type": "string"}], "stateMutability": "view", "type": "function"}]}}, "version": 1, "checkPoints": [], "isProxy": false, "principalAddress": null}
